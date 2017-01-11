@@ -189,6 +189,10 @@
   background-color: #DDE2E5;
 }
 
+.react-select-box-option-disabled {
+  background-color: #c0c0c0;
+}
+
 .react-select-box-close {
   color: #0493D1;
   text-transform: uppercase;
